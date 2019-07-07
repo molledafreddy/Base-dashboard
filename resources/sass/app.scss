@@ -1,0 +1,37 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+//icons
+@import url('https://rawgit.com/lykmapipo/themify-icons/master/css/themify-icons.css');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+//Custom scss
+@import "./css/slim";
+@import "./css/slim.min";
+/*@import "./css/slim.header-two";*/
+/*@import "./css/slim.header-one";*/
+@import "vue2-animate.min";
+@import "../lib/font-awesome/css/font-awesome";
+@import "../lib/Ionicons/css/ionicons";
+/*@import "../lib/chartist/css/chartist";*/
+@import "../lib/rickshaw/css/rickshaw.min";
+@import "../lib/jqvmap/css/jqvmap.min";
+@import "../lib/morris/css/morris";
+@import "~vue-wysiwyg/dist/vueWysiwyg.css";
+/*@import "../lib/datatables/css/jquery.dataTables";
+@import "../lib/select2/css/select2.min";*/
+
+/*@import '~bootstrap/dist/css/bootstrap.css';*/
+/*@import '~bootstrap-vue/dist/bootstrap-vue.css';*/
+@import '~vue-form-wizard/dist/vue-form-wizard.min.css';
+/*@import 'themify-icons/themify-icons';*/
