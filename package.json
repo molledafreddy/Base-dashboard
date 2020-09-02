@@ -22,7 +22,7 @@
         "vue": "^2.5.17"
     },
     "dependencies": {
-        "bootstrap-vue": "^2.0.0-rc.11",
+        "bootstrap-vue": "^2.0.0-rc.12",
         "epic-spinners": "^1.0.3",
         "v-chartist": "^0.1.6",
         "vee-validate": "^2.1.0-beta.9",
